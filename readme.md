@@ -5,7 +5,7 @@ This C program functionally takes an unsigned long integer array from a text fil
 -----> Writes both the outputs on a text file <br />
 <br />
 How to run this code:<br />
-1) Downlaod the zip file and extract it.<br />
+1) Download the zip file and extract it.<br />
 2) Navigate into the folder using terminal and type 'make'<br />
 3) Type ./myBitApp input.txt output.txt (can be arbitrary)<br />
 eg: ./myBitApp Integer.txt Output.txt<br />
